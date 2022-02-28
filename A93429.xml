@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short manifestation of the main end of outward government.</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93429</idno>
+            <idno type="STC">Wing S4327</idno>
+            <idno type="STC">ESTC R229117</idno>
+            <idno type="EEBO-CITATION">43078147</idno>
+            <idno type="OCLC">ocm 43078147</idno>
+            <idno type="VID">151725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151725)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short manifestation of the main end of outward government.</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.S. The beginning of the 7th month, 1664.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Quakers --  Persecution --  England.</term>
+               <term>Assembly, Right of --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:151725:1" rendition="simple:additions"/>
+            <head>A ſhort Manifeſtation of the Main End of Outward Government.</head>
+            <p>OH <hi>England,</hi> how great is the Love which the Mighty GOD of Heaven and
+Earth doth manifeſt towards thee! how doth he withhold his Judgements
+from thee for his own Names ſake! Surely he would not that thou ſhouldſt
+utterly periſh, but graciouſly waits that thou mighteſt come to Repentance,
+and turn from the evil of the doings, that he might ſhew thee Mercy; for the Love
+which he hath towards thee is in ſparing thee, and not in delighting in thee, be<g ref="char:EOLhyphen"/>cauſe
+thy wayes are grievous to him, and thy Abomination provokes him daily, and
+he hath raiſed up his Seed within thee to bear witneſs unto the Truth, and all that are
+born of it they travel for thy good and welfare, that thou mightſt be a Land of Righ<g ref="char:EOLhyphen"/>teouſneſs,
+Juſtice and Equity, and bear the name of <hi>Chriſtianity</hi> in the nature of it a<g ref="char:EOLhyphen"/>bove
+all Nations in the World; this is the kindneſs of the Lord towards thee, who
+for theſe ſeveral years hath warned thee to forſake thy ſins, and to put away the evil
+of thy doings, but thou kickeſt againſt his Counſel, and groweſt worſe and worſe: and
+though he hath beheld the deep Sufferings and Afflictions that his People have endured
+under thy Cruelty, and how thou haſt made thy own Natives the Object of thy Seve<g ref="char:EOLhyphen"/>rity,
+yet he hath not ſpeedily executed his Judgments to the full upon thee, but unto
+this day had rather that thou wouldſt turn from thy wickedneſs and live; O there<g ref="char:EOLhyphen"/>fore
+be not ſtill rebellious againſt ſo gracious a God, but hear and obey his Counſel,
+that thou mayeſt <hi>love mercy, do juſtly, and walk humbly with God;</hi> for whilſt thou art at
+enmity againſt his Light, thou exerciſeſt thy ſelf in cruelty, and walkeſt proudly,
+ſcornfully and diſdainfully, and with that ſpirit art ſtriving to baniſh Truth out of thy
+Dominions, and to rid the Land of Innocent People, whoſe holy Converſation in all
+things is <hi>blameleſs towards thee;</hi> for we that are called <hi>Quakers</hi> have a Witneſs in the
+Conſciences of many that bears a ſure Teſtimony to our peaceable life; and did not
+the Execution of the late Act manifeſt the Intention to be <hi>againſt <g ref="char:V">Ʋ</g>S,</hi> we could not
+have believed it from the expreſs words of it, neither are our Meetings any more con<g ref="char:EOLhyphen"/>cerned
+in it, according to the form of it, than the children that are yet unborn; but
+ſeeing that the Execution is laid upon us, by which it appears that it is Intentionally
+againſt <hi>Us,</hi> we have clearneſs in the power of God to manifeſt our own <hi>Innocency,</hi> that
+the <hi>Cruelty</hi> of ſuch as put it in execution againſt us may lie upon their <hi>own heads;</hi> and
+for this end it is that we are moved thus to write, that all people may ſee and under<g ref="char:EOLhyphen"/>ſtand
+that our Meetings are free from any guilt according to the form of the ſaid Act,
+and that we ought not in Reaſon, Truth or Righteouſneſs to be ſuppreſſed or baniſh<g ref="char:EOLhyphen"/>ed,
+or any way diſturbed in relation to our Meetings, being that no manner of evil
+can be proved to have riſen from them at any time, but contrariwiſe very much good,
+as many are witneſſes; and whoſoever ſet themſelves to act againſt us in this mat<g ref="char:EOLhyphen"/>ter,
+they out-run the form of their own Law, and tranſgreſs the Righteous Law of
+God, and unto God they muſt give account for ſuch their doings: therefore let none
+reject Counſel which tendeth to their eternal good, for they that would be regula<g ref="char:EOLhyphen"/>ting
+others before they be regulated in themſelves, and clearly underſtand by the In<g ref="char:EOLhyphen"/>ſpiration
+of the Almighty, what they ought to ſuppreſs, and what to encourage, they
+may in their undertakings ſuppreſs the Truth and encourage Error, and ſo run them<g ref="char:EOLhyphen"/>ſelves
+into irregular actions and proceedings, and yet count them legal; therefore
+to conſider the ground which firſt cauſed the neceſſity of outward Laws is of great
+concernment, for if all people were guided by the principle of God in themſelves,
+then they would not need any outward Law to govern them, but the Principle of
+God being tranſgreſſed, then the Enmity got up and governed, and <hi>becauſe of tranſ<g ref="char:EOLhyphen"/>greſſion
+the Law was added;</hi> and <hi>Cain</hi> who was of the wicked one he tranſgreſſed the
+Principle of God, and ſlew his brother about Religion, and the juſt Law of God took
+hold upon him as a tranſgreſſor, and his puniſhment was greater than he could bear;
+and think you to eſcape whoſe hands are doing the ſame work? do not deceive your
+ſelves with your Law, for the righteous God is juſt in all his ways, and your Law will
+not be a defence unto you, when the Law of the Spirit of Life takes hold upon you in
+Judgment. Now Religion is not a thing that falls within the compaſs or power of
+Nations Laws, but wholly belongs unto God, to order as he ſeeth good, and man is
+only to extend his power unto ſuch things as he is in a capacity to underſtand, and
+that which appears to be tranſgreſſion in Civil things he is to lay the Law upon it for
+the terror of evil-doers; for whatſoever is ordained of God there is an end for which
+it is ordained, and the End is only to be anſwered; and ſo Outward Government
+hath its End, and if it keep in its place, and anſwer its end, it is good, and ought to
+be ſubmitted unto for Conſcience-ſake; if it relieve the Oppreſſed and judg the cauſe
+of the Widdow; if it preſerve the Nation in peace, and the People in their well-being;
+if it do right to thoſe that are wronged, and keep down vanity and profaneſs,
+which is in the tranſgreſſion, then it anſwers its End, and is to be ſubmitted unto:
+And as this is the main End of Outward Government, ſo it is to be faithfully anſwer<g ref="char:EOLhyphen"/>ed
+by all that are entruſted with it, and they are not to intrude into any thing be<g ref="char:EOLhyphen"/>yond
+it, for where any do ſo, either in making Laws or executing them, they do that
+for which they were never ordained of God; and ſo unrighteous Decrees come to be
+made and executed, and that againſt an Innocent People, that anſwers the End of the
+Law without the force of the Law, and againſt whom there is no Law; for <hi>the Law was
+not made for the Righteous, but for Sinners,</hi> (mark) for <hi>Sinners:</hi> but to worſhip God in
+his Spirit is not ſin; to live peaceably, righteouſly and ſoberly is not ſin; to ſpeak
+the Truth and not to ſwear is not ſin; the Law was not made for ſuch as ſo live, but
+for ſinners; (mark again) for Thieves, Murderers, Drunkards, Adulterers, Swearers,
+Lyars, Sporters, Players, Rioters and wrong-doers, proud, heady, high-minded, vain,
+and prophane people, here are the ſinners for whom the Law was made; and have
+you any thing of this na<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure againſt us? or, doth not the Witneſs of God in your own
+Conſciences clear us? Now where doth your Sword fall, do you not miſs the Sinners,
+and ſmite the Righteous? Is not your Sword in your left hand, that makes you ſtrike
+ſo far wide of that which you ſhould hit? muſt our peaceable Meetings be ſuppreſſed,
+and we afflicted and puniſhed, and ſuch as meet to exerciſe vanity and prophaneſs
+eſcape and go free? if you govern not over ſuch things, what do you govern over?
+Truth governs it ſelf, and all that live in it are well governed by it; therefore go<g ref="char:EOLhyphen"/>vern
+over the Evil, and let not it govern over you, for thereby you are drawn to de<g ref="char:EOLhyphen"/>light
+in it, and ſo cannot ſmite it, but ſmite the Righteous, that are well-governed
+in the Power and Wiſdom of God. O it is a ſad thing that ſuch as repreſent the
+Nation ſhould act againſt the Body of their Repreſentation, and ſuch as are in power
+in the Country ſhould put ſuch Acts in execution, and thereby endeavour to baniſh
+out of the Nation their own Neighbours, and ſo leave Wives Widows, and Chil<g ref="char:EOLhyphen"/>dren
+Fatherleſs, and Families deſtitute of outward ſuccour! Surely God never or<g ref="char:EOLhyphen"/>dained
+you to do ſuch things, neither doth God or good men approve you in it, and
+you are happy that have or do avoid the evil of it: O return to your places all you
+that are out of them, that you may be found doing ſuch things as are well-pleaſing un<g ref="char:EOLhyphen"/>to
+God; and let your care be to anſwer the End of your places in things that you
+underſtand, that the Nation may be kept in peace by your means, and do not run
+things into diſtraction and confuſion under pretence of Reformation and Regulation.
+Now look over your proceedings according to your own Law, Can you proceed to
+Judgment in any offence criminal, or in any caſe of difference, without ſome Evi<g ref="char:EOLhyphen"/>dence
+to make proof unto you of the matter in queſtion? and is not every Witneſs
+engaged to ſpeak the Truth, the whole Truth, and nothing but the Truth? and are
+not all Juries engaged to try all Cauſes according to their Evidence? Now conſi<g ref="char:EOLhyphen"/>der
+whether this can be done in a Caſe of Conſcience, being that no Evidence can
+ſpeak from a true knowledge or underſtanding of the matter; and though the Act
+be brought forth in ſuch terms as ſomething may be taken notice of as an offence,
+that is to ſay, <hi>Sedit<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Conventicles;</hi> but no Evidence can prove a <hi>Peaceable Meeting</hi>
+to be a <hi>Seditious Conventicle,</hi> if they ſpeak the Truth, the whole Truth, and nothing
+but the Truth; and ſo a Peaceable Meeting to worſhip God in tenderneſs of Con<g ref="char:EOLhyphen"/>ſcience
+is not an offence which the Act takes notice of, neither is it tranſgreſſion a<g ref="char:EOLhyphen"/>gainſt
+it, for no Evidence can prove ſuch a Meeting to be a <hi>Seditious Conventicle;</hi> and
+the matter not being proved, no Jury is in a capacity to find it, nor Judge to con<g ref="char:EOLhyphen"/>demn
+it. O therefore conſider, and be ſerious in your places, who are concerned in
+Authority this day; for the main End of Outward Government is to <hi>ſuppreſs evil,</hi>
+and to be a <hi>terror to evil-doers, and a praiſe to them that do well:</hi> Now if you ſay, <hi>We
+look upon you not to do well, in that you will not be conformable with us unto the Worſhip
+which we obſerve, but meet together contrary to our diſcipline, and in that ſenſe we do ſuppreſs
+you as evil-doers:</hi> Well, this is your perſwaſion; but God hath otherwiſe perſwaded
+us: and if it ſhould be an evil in us in this caſe, yet it is not for you to condemn,
+but to leave it unto God who is a righteous Judge of the Conſcience: but we are
+fully perſwaded in the Lord, that our not-conforming with you, and alſo our Meet<g ref="char:EOLhyphen"/>ings
+in that way wherein we worſhip God, is according to his mind; for he hath
+opened our underſtandings by his Light, in which we ſee that your Worſhip is not
+grounded upon a true foundation; and he hath called us to Separation: and though
+ſeparated from your way, yet we truly worſhip God in his living Spirit, which is his
+own way; and he hath called us ſo to do; and in obeying the Lord we do well, and
+not evil: and therefore it is not what you may be perſwaded concerning us in this
+caſe, that makes us Evil-doers in the ſight of God, neither are you to force us into
+your perſwaſion, or from our own, but to ſuppreſs every manifeſt Evil, as before is
+mentioned, and not to make a thing evil from a ſuppoſition according to your own
+perſwaſions, and then to make a Law againſt it to ſuppreſs it, this is beſides your pla<g ref="char:EOLhyphen"/>ces,
+and doth not belong unto you: therefore if you will do that which properly be<g ref="char:EOLhyphen"/>longs
+to your places, cut down the ſin that abounds this day before your own eyes,
+and then you will anſwer the End of the Law in Truth; for we deſire that all in
+Power may be kept out of this great Evil of <hi>Perſecution for Conſcience-ſake,</hi> or being
+in it, may be plucked forth through Information to their underſtandings, which is the
+main End why we write after this manner; for if it was not in pitty unto ſuch as are
+herein concerned, we could be ſilent, and in patience lie down, knowing the deter<g ref="char:EOLhyphen"/>mination
+of God concerning our Cauſe: And as for ſuch whoſe Reſolutions are to
+carry it on to the height againſt us, unto ſuch I ſay, Let not Enmity overſway Ju<g ref="char:EOLhyphen"/>ſtice
+and Equity, and we are ready to make our Defence; but if in Enmity you will
+proſecute contrary to Juſtice and Equity, then I ſay unto you in the Word of the
+Lord God, That when you have filled up your meaſures, the dregs of your own Cup
+you muſt drink, yea, and drink them off, and none ſhall pitty you; for the Lord God
+is on our ſide, and his freſh-Springs are our Conſolation, and from his Preſence you
+cannot baniſh us: though you may be permitted to force ſome out of their Native
+Land, yet when you have done, they will be at home with the Lord, and in the Land
+of the Living poſſeſs unſpeakable Joy; therefore let all your thoughts ceaſe concern<g ref="char:EOLhyphen"/>ing
+us, for we are of good courage in our Innocent Cauſe, and knowing that in this
+matter we have not wronged any man, we can boldly appeal to the Witneſs of God
+in all men for Juſtice and Equity; and with him alone we leave our Cauſe, who is
+our Helper and Deliverer, in whom we truſt, the Lord God of Heaven and Earth,
+the Righteous Judge of all the Earth, whoſe living Spirit is our weapon, and his
+Salvation our walls and bulwarks.</p>
+            <closer>
+               <signed>W. S.</signed>
+               <date>The beginning of the 7th month, 1664.</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
